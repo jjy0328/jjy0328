@@ -48,6 +48,3 @@
 
 <div align="center"> Library / Framework </div>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjy0328&show_icons=true">
